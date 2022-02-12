@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, JS and PHP...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me?
-- You can find me in my facebook profile in Facebook/Cláudio Rufino or just send me some email in claudiorufinop@gmail.com
+- You can find me in my facebook profile Facebook/Cláudio Rufino or just send me some email in claudiorufinop@gmail.com
 
 <!---
 ClaudioRufino/ClaudioRufino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
