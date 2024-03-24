@@ -1,4 +1,4 @@
-### Olá 🙋‍♂️, Seja bem vindo ao meu portfólio, sou o Cláudio Rufino, Um ávido estudante de programação!
+### Olá 🙋‍♂️, Seja bem vindo ao meu portfólio!
 
 [![porfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-theta-sooty.vercel.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudio-rufino-milonga)
