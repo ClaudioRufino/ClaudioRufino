@@ -3,16 +3,14 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudio-rufino-milonga)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100009091174303)
 
-
-![Cláudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioRufino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioRufino)
 
+![Cláudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioRufino&show_icons=true&theme=radical)
 
 ## Tecnologias Actuais
-
 <div style="display:inline-block;">
     <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</div> 
+</div>
 <div style="display:inline-block;">
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
